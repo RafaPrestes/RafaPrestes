@@ -1,4 +1,4 @@
-### Olá ! Eu sou o Rafael Prestes
+### Olá ! Eu sou o Rafael Prestes, estudante de Análise e Desenvolvimento de Sistemas, Desenvolvedor Front End
 
 <div align="center">
   <a href="https://github.com/RafaPrestes">
