@@ -1,4 +1,4 @@
-### Olá ! Eu sou o Rafael Prestes, estudante de Análise e Desenvolvimento de Sistemas. Desenvolvedor Front End
+### Olá ! Eu sou o Rafael Prestes, estudante de Análise e Desenvolvimento de Sistemas.
 
 <div align="left">
   <a href="https://github.com/RafaPrestes">
