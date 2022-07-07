@@ -21,7 +21,8 @@ Analista de Desenvolvimento de Softwares e Estudante de Análise e Desenvolvimen
 ### Github Stats
 <div align="left">
   <a href="https://github.com/RafaPrestes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaPrestes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaPrestes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPrestes&theme=github_dark&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)">
 </div>
   
    ##
