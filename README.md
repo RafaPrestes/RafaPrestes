@@ -4,6 +4,7 @@ Analista de Desenvolvimento de Softwares e Estudante de Análise e Desenvolvimen
 - 🔭 Atualmente trabalhando na empresa Belsi Softwares
 - 🌱 Estudando React, Javascript e C#
 - 🤝 Estou colaborando com o desenvolvimento de Sistemas de Acesso 
+- 🚀 Bora codar!
   
 <h3 align="left">Minhas Habilidades</h3>
 <p align="left" padding="30"> 
