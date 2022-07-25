@@ -1,4 +1,6 @@
-### Olá Dev 👋 Me chamo Rafael Prestes
+<img align="right"  width="400" height="250" src="https://user-images.githubusercontent.com/64441986/180850343-e159e026-6f43-4aff-ae01-204b66b77525.gif"/>
+
+### Olá Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" /> Me chamo Rafael Prestes 
 Analista de Desenvolvimento de Softwares e Estudante de Análise e Desenvolvimento de Sistemas
 
 - 🔭 Atualmente trabalhando na empresa Belsi Softwares
@@ -16,7 +18,8 @@ Analista de Desenvolvimento de Softwares e Estudante de Análise e Desenvolvimen
 <img src="https://tecnosoft.com.br/img/site/icone-firebird.png"  width="40" height="40"/>
 </p>
 
-  ##
+  
+##
   
 ### Github Stats
 <div align="left">
