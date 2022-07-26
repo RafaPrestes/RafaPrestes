@@ -1,4 +1,4 @@
-<img align="right"  width="400" height="250" src="https://jaredmezz.com/programmer-transparent.gif"/>
+<img align="right"  width="350" height="250" src="https://jaredmezz.com/programmer-transparent.gif"/>
 
 ### Olá Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" /> Me chamo Rafael Prestes 
 Analista de Desenvolvimento de Softwares e Estudante de Análise e Desenvolvimento de Sistemas
