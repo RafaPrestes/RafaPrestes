@@ -1,8 +1,8 @@
 ### Olá Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" /> Me chamo Rafael Prestes 
-Sou Analista de Desenvolvimento de Softwares e Formado em Análise e Desenvolvimento de Sistemas
+Sou formado em Análise e Desenvolvimento de Sistemas e estou trabalhando como Analista de Desenvolvimento de Software
 
 - 🔭 Atualmente trabalhando na empresa Belsi Softwares
-- 🌱 Estudando React, Javascript, NodeJS e Delphi
+- 🌱 Estudando React, Javascript, NodeJS, C# e Delphi
 - 🤝 Estou colaborando com o desenvolvimento de Sistemas de Acesso 
 - 🚀 Bora codar
   
