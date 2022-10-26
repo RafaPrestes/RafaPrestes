@@ -8,12 +8,14 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou trabalhando como A
   
 <h3 align="left">Minhas Habilidades</h3>
 <p align="left" padding="30"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/delphi-ide.png" width="40" height="40"/>
-<img src="https://tecnosoft.com.br/img/site/icone-firebird.png"  width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="30" height="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  width="35" height="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-plain-wordmark.svg"  width="35" height="35"/>
+<img src="https://img.icons8.com/color/48/000000/delphi-ide.png" width="35" height="35"/>
+<img src="https://tecnosoft.com.br/img/site/icone-firebird.png"  width="35" height="35"/>
 </p>
 
   
