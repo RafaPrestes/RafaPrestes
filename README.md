@@ -1,12 +1,12 @@
-### Olá Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" /> Me chamo Rafael Prestes 
-Sou formado em Análise e Desenvolvimento de Sistemas e estou trabalhando como Analista de Desenvolvimento de Software
+### Hello Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" /> My name is Rafael Prestes 
+Graduated in Systems Analysis and Development. I am working as a Software Development Analyst
 
-- 🔭 Atualmente trabalhando na empresa Belsi Softwares
-- 🌱 Estudando React, Javascript, NodeJS, C# e Delphi
-- 🤝 Estou colaborando com o desenvolvimento de Sistemas de Acesso 
-- 🚀 Bora codar
+- 🔭 Currently working at the company Belsi Softwares
+- 🌱 Studying React, Javascript, NodeJS, C# and Delphi
+- 🤝 I am collaborating with the development of Access Systems
+- 🚀 Let's go code!
   
-<h3 align="left">Minhas Habilidades</h3>
+<h3 align="left">My Skills</h3>
 <p align="left" padding="30"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/> 
@@ -30,7 +30,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou trabalhando como A
   
    ##
    
-  <h3 align="left">Conecte-se Comigo</h3>
+  <h3 align="left">Connect with me</h3>
   <div>
     <a href="https://www.linkedin.com/in/rafael-prestes-826737206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.instagram.com/perao_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
