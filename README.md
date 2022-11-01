@@ -1,4 +1,4 @@
-### Hello Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" /> My name is Rafael Prestes 
+### Hello Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" /> I'm Rafael Prestes 
 Graduated in Systems Analysis and Development. I am working as a Software Development Analyst
 
 - 🔭 Currently working at the company Belsi Softwares
