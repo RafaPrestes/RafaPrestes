@@ -2,7 +2,7 @@
 Graduated in Systems Analysis and Development. I am working as a Software Development Analyst
 
 - 🔭 Currently working at the company Belsi Softwares
-- 🌱 Studying React, Javascript, NodeJS, C# and Delphi
+- 🌱 Studying React, React Native, NodeJS, C# and Delphi
 - 🤝 I am collaborating with the development of Access Systems
 - 🚀 Let's go code!
   
