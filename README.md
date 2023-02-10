@@ -19,14 +19,14 @@ Graduated in Systems Analysis and Development. I am working as a Junior Front-En
   
 ##
   
-### Github Stats
+<!-- ### Github Stats
 <div align="left">
   <a href="https://github.com/RafaPrestes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaPrestes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPrestes&theme=github_dark&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)">
-</div>
+</div> -->
   
-   ##
+<!--    ## -->
    
   <h3 align="left">Connect with me</h3>
   <div>
