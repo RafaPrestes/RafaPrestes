@@ -1,5 +1,5 @@
 ### Hello Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" /> I'm Rafael Prestes 
-Graduated in Systems Analysis and Development. I am working as a Software Development Analyst
+Graduated in Systems Analysis and Development. I am working as a Junior Developer
 
 - 🔭 Currently working at the company Belsi Softwares
 - 🌱 Studying React, React Native, NodeJS, C# and Delphi
