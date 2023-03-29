@@ -1,3 +1,4 @@
+
 ### Hello Dev, I'm Rafael Prestes 
 Graduated in Systems Analysis and Development. I am working as a Junior Front-End Developer
 
@@ -5,7 +6,12 @@ Graduated in Systems Analysis and Development. I am working as a Junior Front-En
 - 🌱 Studying React, React Native, NodeJS, C# and Delphi
 - 🤝 I am collaborating with the development of Access Systems
 - 🚀 Let's go code!
-  
+
+##
+
+<img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" alt="html5" width="600" height="190" align="right" bottom="200"/> 
+
+<div>
 <h3 align="left">My Skills</h3>
 <p align="left" padding="30"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/> 
@@ -16,10 +22,8 @@ Graduated in Systems Analysis and Development. I am working as a Junior Front-En
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"  width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  width="35" height="35"/>
 </p>
+</div>
 
-  
-##
-  
 <!-- ### Github Stats
 <div align="left">
   <a href="https://github.com/RafaPrestes">
@@ -35,5 +39,3 @@ Graduated in Systems Analysis and Development. I am working as a Junior Front-En
     <a href="https://www.instagram.com/perao_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:rafap.ofcs2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
-  
-  
