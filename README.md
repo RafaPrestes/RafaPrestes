@@ -1,4 +1,6 @@
 
+<img src="https://user-images.githubusercontent.com/64441986/228621942-6b56ad9e-3774-4f01-a098-030e2a602728.gif" alt="html5" width="350" height="220" align="right" bottom="200"/> 
+
 ### Hello Dev, I'm Rafael Prestes 
 Graduated in Systems Analysis and Development. I am working as a Junior Front-End Developer
 
@@ -9,7 +11,7 @@ Graduated in Systems Analysis and Development. I am working as a Junior Front-En
 
 ##
 
-<img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" alt="html5" width="450" height="180" align="right" bottom="200"/> 
+
 
 <div>
 <h3 align="left">My Skills</h3>
