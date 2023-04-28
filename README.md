@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/64441986/228621942-6b56ad9e-3774-4f01-a098-030e2a602728.gif" alt="html5" width="350" height="220" align="right" bottom="200"/> 
+<!-- <img src="https://user-images.githubusercontent.com/64441986/228621942-6b56ad9e-3774-4f01-a098-030e2a602728.gif" alt="html5" width="350" height="220" align="right" bottom="200"/>  -->
 
 ### Hello Dev, I'm Rafael Prestes 
 Graduated in Systems Analysis and Development. I am working as a Junior Front-End Developer
@@ -8,10 +8,6 @@ Graduated in Systems Analysis and Development. I am working as a Junior Front-En
 - 🌱 Studying React, React Native, NodeJS, C# and Delphi
 - 🤝 I am collaborating with the development of Access Systems
 - 🚀 Let's go code!
-
-##
-
-
 
 <div>
 <h3 align="left">My Skills</h3>
@@ -25,16 +21,16 @@ Graduated in Systems Analysis and Development. I am working as a Junior Front-En
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  width="35" height="35"/>
 </p>
 </div>
-
-<!-- ### Github Stats
+ 
+ ### Github Stats
 <div align="left">
   <a href="https://github.com/RafaPrestes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaPrestes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPrestes&theme=github_dark&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)">
-</div> -->
+</div> 
   
-<!--    ## -->
-   
+##
+  
   <h3 align="left">Connect with me</h3>
   <div>
     <a href="https://www.linkedin.com/in/rafael-prestes-826737206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
