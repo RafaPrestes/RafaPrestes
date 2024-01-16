@@ -2,7 +2,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/64441986/228621942-6b56ad9e-3774-4f01-a098-030e2a602728.gif" alt="html5" width="350" height="220" align="right" bottom="200"/>  -->
 
 ### Hello Dev, I'm Rafael Prestes 
-Graduated in Systems Analysis and Development. I am working as a Junior Front-End Developer
+Graduated in Systems Analysis and Development. I am working as a Junior Developer
 
 - 🔭 Currently working at the company Belsi Softwares
 - 🌱 Studying React, React Native, NodeJS, C# and Delphi
@@ -12,13 +12,12 @@ Graduated in Systems Analysis and Development. I am working as a Junior Front-En
 <div>
 <h3 align="left">My Skills</h3>
 <p align="left" padding="30"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="32" height="32"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"  width="35" height="35"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  width="35" height="35"/>
+
 </p>
 </div>
  
