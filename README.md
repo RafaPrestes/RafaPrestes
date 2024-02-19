@@ -5,7 +5,7 @@
 Graduated in Systems Analysis and Development. I am working as a Junior Developer
 
 - 🔭 Currently working at the company Belsi Softwares
-- 🌱 Studying React, React Native, NodeJS, C# and Delphi
+- 🌱 Working with the stack React, React Native and NodeJS
 - 🤝 I am collaborating with the development of Access Systems
 - 🚀 Let's go code!
 
