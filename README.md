@@ -8,6 +8,7 @@ Graduated in Systems Analysis and Development. I am working as a Fullstack Devel
 - 🤝 I am collaborating with the development of Access Systems
 - 🚀 Let's go code!
 
+<!-- 
 <div>
 <h3 align="left">My Skills</h3>
 <p align="left" padding="30"> 
@@ -17,8 +18,12 @@ Graduated in Systems Analysis and Development. I am working as a Fullstack Devel
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="35" height="35" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="35" height="35"/>
-
 </p>
+-->
+
+<h3 align="left">My Skills</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=react,postgres,sequelize,nextjs,nodejs,github,git)](https://skillicons.dev)
 </div>
  
 <!-- ### Github Stats
@@ -27,8 +32,6 @@ Graduated in Systems Analysis and Development. I am working as a Fullstack Devel
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaPrestes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaPrestes&theme=github_dark&layout=compact&)](https://github.com/anuraghazra/github-readme-stats)"> 
 </div> -->
-  
-##
   
   <h3 align="left">Connect with me</h3>
   <div>
