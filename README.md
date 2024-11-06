@@ -23,11 +23,11 @@ Graduated in Systems Analysis and Development. I am working as a Fullstack Devel
 
 <h3 align="left">My Skills</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,postgres,sequelize,nextjs,nodejs,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,postgres,sequelize,nextjs,nodejs,github,git,cs)](https://skillicons.dev)
 
 <div >
      <img src="https://github-profile-trophy.vercel.app/?username=RafaPrestes&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div>
+</div>
  
 <!-- ### Github Stats
 <div align="left">
