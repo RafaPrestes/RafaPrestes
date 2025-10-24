@@ -2,7 +2,7 @@
 <!-- <img src="https://user-images.githubusercontent.com/64441986/228621942-6b56ad9e-3774-4f01-a098-030e2a602728.gif" alt="html5" width="350" height="220" align="right" bottom="200"/>  -->
 
 ### Hello Dev, I'm Rafael Prestes 
-Graduated in Systems Analysis and Development. I am working as a Fullstack Developer
+Graduated in Systems Analysis and Development. I am working as a Front End Developer
 
 - 💻 Working with the stack React, React Native and NodeJS
 - 🤝 I am collaborating with the development of Access Systems
